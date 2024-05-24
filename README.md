@@ -1,6 +1,8 @@
 # RunnerGame
 
-##GDD
+#GDD
+
+
 Block Runner is a minimalist endless runner game developed using Unity for iOS and Android platforms. Players control a block that automatically moves forward and must jump over obstacles and collect coins to achieve the highest score. The game features a simple geometric art style, energetic chiptune music, and is free to play with optional in-app purchases.
 
 **Concept Overview**:
